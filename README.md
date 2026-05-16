@@ -35,7 +35,7 @@ NexusEye is a high-performance, sci-fi themed analytics dashboard for the Solana
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nexuseye-dashboard.git
+   git clone https://github.com/0xanjalii/NexusEye.git
    ```
 
 2. Install dependencies:
